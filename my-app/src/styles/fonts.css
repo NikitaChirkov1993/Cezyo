@@ -1,0 +1,49 @@
+@font-face {
+	font-family: 'Raleway';
+	src:
+		url('/fonts/RalewaySemiBold.woff2') format('woff2'),
+		url('/fonts/RalewaySemiBold.woff') format('woff');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Raleway';
+	src:
+		url('/public/fonts/RalewayRegular.woff2') format('woff2'),
+		url('/fonts/RalewayRegular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Raleway';
+	src:
+		url('/fonts/RalewayBold.woff2') format('woff2'),
+		url('/fonts/RalewayBold.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Raleway';
+	src:
+		url('/fonts/RalewayMedium.woff2') format('woff2'),
+		url('/fonts/RalewayMedium.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src:
+		url('/fonts/ofont_ru_Montserrat.woff2') format('woff2'),
+		url('/fonts/ofont_ru_Montserrat.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}

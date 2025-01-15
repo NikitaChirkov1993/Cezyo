@@ -1,0 +1,12 @@
+:root {
+    --font-family: "Raleway", sans-serif;
+    --second-family: "Montserrat", sans-serif;
+}
+
+.app {
+    font-family: var(--second-family);
+    /* font-weight: 700; */
+    font-size: 30px;
+    line-height: 128%;
+    color: #2d2d2f;
+}
