@@ -28,6 +28,8 @@ function App() {
         <div>ПРивет</div>
         <div>ПРивет</div>
         <div>ПРивет</div>
+        <div>ПРивет</div>
+        <div>ПРивет</div>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
